@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-security</name>
 	<description>Demo project for Spring Boot</description>
-
+	<!-- lsy update	-->
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
